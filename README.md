@@ -16,7 +16,7 @@ In this study, integration of multi-omics data as shown in Table 2 (CNV, DNA met
 ## Precission-Recall Curve:
 <img width="1627" height="697" alt="image" src="https://github.com/user-attachments/assets/0d2bb14f-db1e-4521-a6f7-d554caace346" />
 
-## Prediction Results:
+## Prediction Results and Comparison:
 <img width="1712" height="765" alt="image" src="https://github.com/user-attachments/assets/9cc474de-3d9f-4923-8b16-a702ccf9dcbd" />
 <img width="1088" height="652" alt="image" src="https://github.com/user-attachments/assets/ec4c4615-5117-4f88-85a9-1d98926f54b0" />
 
